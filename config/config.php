@@ -2,10 +2,10 @@
 
 return [
     'db' => [
-        'host' => '127.0.0.1',
-        'name' => 'simpkl',
-        'user' => 'root',
-        'pass' => '',
+        'host' => 'sql308.infinityfree.com',
+        'name' => 'if0_43298798_bogor',
+        'user' => 'if0_43298798',
+        'pass' => 'Cabangbogo321',
         'charset' => 'utf8mb4',
     ],
     'app_name' => 'SIMPKL Robotics',
