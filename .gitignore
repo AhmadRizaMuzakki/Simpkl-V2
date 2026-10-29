@@ -1,0 +1,3 @@
+uploads/dokumentasi/*
+!uploads/dokumentasi/.htaccess
+!uploads/dokumentasi/.gitkeep
